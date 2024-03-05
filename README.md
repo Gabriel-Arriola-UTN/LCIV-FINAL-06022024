@@ -72,7 +72,7 @@ mostrar los totales y persistir toda la informacion de la respuesta en la base d
 
 La api externa debe ser levantada via docker con la siguiente imagen:
 
-``` CREAR_IMAGEN_DOCKER.... ```
+``` docker pull gabrielarriola/api-loteria ```
 
 Y una vez levantada se puede acceder a su documentación en la url:
 
